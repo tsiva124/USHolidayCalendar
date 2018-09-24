@@ -1,0 +1,10 @@
+C:\Users\st954032\source\repos\USHolidays\USHolidays\bin\Debug\USHolidays.exe.config
+C:\Users\st954032\source\repos\USHolidays\USHolidays\bin\Debug\USHolidays.exe
+C:\Users\st954032\source\repos\USHolidays\USHolidays\bin\Debug\USHolidays.pdb
+C:\Users\st954032\source\repos\USHolidays\USHolidays\obj\Debug\USHolidays.csprojAssemblyReference.cache
+C:\Users\st954032\source\repos\USHolidays\USHolidays\obj\Debug\USHolidays.csproj.CoreCompileInputs.cache
+C:\Users\st954032\source\repos\USHolidays\USHolidays\obj\Debug\USHolidays.exe
+C:\Users\st954032\source\repos\USHolidays\USHolidays\obj\Debug\USHolidays.pdb
+C:\Users\st954032\source\repos\USHolidays\USHolidays\bin\Debug\Newtonsoft.Json.dll
+C:\Users\st954032\source\repos\USHolidays\USHolidays\bin\Debug\Newtonsoft.Json.xml
+C:\Users\st954032\source\repos\USHolidays\USHolidays\obj\Debug\USHolidays.csproj.CopyComplete
